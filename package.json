@@ -48,12 +48,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-bt-egg-redlock.git"
+    "url": "git@gitlab.btclass.cn:dafu/bt-egg-redlock.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://gitlab.btclass.cn/dafu/bt-egg-redlock/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-bt-egg-redlock#readme",
+  "homepage": "https://gitlab.btclass.cn/dafu/bt-egg-redlock",
   "author": "pdf",
   "license": "MIT"
 }
