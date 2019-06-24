@@ -1,5 +1,5 @@
 {
-  "name": "bt-egg-redlock",
+  "name": "egg-redlock",
   "version": "1.0.0",
   "description": "distribute lock and support currency controller",
   "eggPlugin": {
@@ -48,12 +48,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.btclass.cn:dafu/bt-egg-redlock.git"
+    "url": "https://github.com/pdf0824/egg-redlock.git"
   },
   "bugs": {
-    "url": "https://gitlab.btclass.cn/dafu/bt-egg-redlock/issues"
+    "url": "https://github.com/pdf0824/egg-redlock/issues"
   },
-  "homepage": "https://gitlab.btclass.cn/dafu/bt-egg-redlock",
+  "homepage": "https://github.com/pdf0824/egg-redlock",
   "author": "pdf",
   "license": "MIT"
 }
