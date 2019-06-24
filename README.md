@@ -38,7 +38,7 @@ egg-bt-egg-redlock 版本 | egg 1.x
 // config/plugin.js
 exports.locker = {
   enable: true,
-  package: 'bt-egg-redlock',
+  package: 'egg-redlock',
 };
 ```
 
@@ -90,5 +90,5 @@ module.exports = UserController;
 
 ## 提问交流
 
-请到 [issues](https://gitlab.btclass.cn/dafu/bt-egg-redlock/issues) 异步交流。
+请到 [issues](https://github.com/pdf0824/egg-redlock/issues) 异步交流。
 
