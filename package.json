@@ -1,5 +1,5 @@
 {
-  "name": "egg-redlock",
+  "name": "egg-redlock-plugin",
   "version": "1.0.0",
   "description": "distribute lock and support currency controller",
   "eggPlugin": {
